@@ -1,0 +1,5 @@
+x = input("What is your first number?")
+x = float(x)
+y = input("What is your exponent number?")
+y = float(y)
+print ("Your number is", x**y)
